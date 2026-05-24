@@ -45,10 +45,4 @@ Browse my repositories below to see projects covering:
 
 ---
 
-## 📊 GitHub Stats
-
-![Ananna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anannarahman096&show_icons=true&theme=default&hide_border=true)
-
----
-
 📌 *Always learning. Always building.*
